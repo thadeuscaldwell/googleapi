@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(18, 18, 114);
+    color: whitesmoke;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+ .nav-item {
+     border: 1px solid whitesmoke;
+     
+     border-radius: 5px;
+ }
+ #map {
+ height: 100%;
+ align-items: center;
+ margin: 0;
+ padding: 0;
+ }
